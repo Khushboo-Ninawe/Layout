@@ -1,0 +1,60 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    background-image: url('/images/anime2.jpg');
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: last baseline;
+    flex-direction: row;
+}
+.sub{
+    background-color: white;
+    top: 50%;
+    /* display: block;
+    justify-content: center; */
+    height: 30%;
+    width: 100vw;
+    /* align-items: center; */
+    text-align: center;
+    padding-top: 20px;
+    color: rgb(61, 61, 175);
+    font-weight: 900;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 1px solid none;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.para{
+    padding-top: 15px;
+    color: rgba(0, 0, 0, 0.747);
+    font-weight: 90%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.btn1{
+    margin-top: 15px;
+    padding: 9px;
+    border: 1px solid;
+    font-weight: 1000;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-color: rgb(208, 201, 201);
+    background-color: white;
+    color: rgb(61, 61, 175);
+    border-radius: 10px;
+}
+.btn2{
+    margin-top: 15px;
+    padding: 9px;
+    border: 1px solid;
+    font-weight: 1000;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-color: rgb(61, 61, 175);
+    background-color: rgb(61, 61, 175);
+    color:rgba(255, 255, 255, 0.818);
+    border-radius: 10px;
+    margin-left: 10px;
+}

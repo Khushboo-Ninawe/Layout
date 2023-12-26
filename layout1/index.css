@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.tent{
+    background-color: lightblue;
+    height: 55vh;
+    width: 70vw;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.refr{
+    background-color: lightcoral;
+    height: 50vh;
+    width: 45vw;
+}
+.disk{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    height: 50vh;
+    width: 50vw;
+}
+.test{
+    background-color: aquamarine;
+    height: 15vh;
+    width: 15vw;
+    margin-left: 10px;
+    padding: 40px;
+}
+.test1{
+    background-color: aquamarine;
+    height: 19vh;
+    width: 50vw;
+    margin-left: 10px;
+    padding: 10px;
+}
+

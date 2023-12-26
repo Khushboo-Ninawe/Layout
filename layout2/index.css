@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+    box-sizing: border-box;
+}
+.row1{
+    background-color: aqua;
+    height: 100vh;
+    width: 100vw;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    /* justify-content: center; */
+    flex-direction: row;
+    box-sizing: border-box;
+}
+.col1{
+    height: 50%;
+    width: 30%;
+    background-color: blueviolet;
+    padding: 10px;
+}

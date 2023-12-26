@@ -1,0 +1,101 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    background-color: skyblue;
+    height: 70vh;
+    width: 80vw;
+    margin: 40px;
+    padding: 1px;
+}
+.header{
+    background-color: rgb(12, 12, 92);
+    height: 10%;
+    margin: 9px;
+    padding-top: 9px;
+    text-align: center;
+    color: whitesmoke;
+}
+.hi1{
+    padding-top: 8px;
+}
+.sub{
+    background-color: skyblue;
+    height: 70%;
+    margin: 9px;
+    display: flex;
+    
+    flex-direction: row;
+}
+.sub2{
+    background-color: rgb(11, 77, 11);
+    height: 100%;
+    width: 30%;
+    }
+.hi2{
+    text-align: center;
+    color: whitesmoke;
+    padding-top: 60%;
+}
+.sub3{
+    height: 100%;
+    background-color: orangered;
+    width: 80%;
+    text-align: center;
+    color: whitesmoke;
+    margin-left: 9px;
+}
+.content{
+    height: 50%;
+    background-color: orangered;
+    text-align: center;
+    margin-bottom: 5px;
+}
+.hi2{
+    padding-top: 50%;
+}
+.section{
+    height: 48%;
+    background-color: oranged;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+   
+}
+.image1{
+    background-color: orange;
+    height: 45%;
+    width: 20%;
+    margin-top: 10%;
+    margin-left: 15px;
+    
+}
+.image2{
+    background-color: orange;
+    height: 45%;
+    width: 20%;
+    margin-top: 10%;
+    margin-left: 2px;
+}
+.image3{
+    background-color: orange;
+    height: 45%;
+    width: 20%;
+    margin-top: 10%;
+    margin-left: 2px;
+    margin-right: 15px;
+}
+.hi3{
+    padding: 1px;
+}
+.footer{
+    background-color: rgb(12, 12, 92);
+    height: 10%;
+    margin: 9px;
+    padding-top: 9px;
+    text-align: center;
+    color: whitesmoke; 
+    width: 78.5vw ;
+} 
